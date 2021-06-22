@@ -15,6 +15,8 @@ Sample data used by these tests lives in ```constants.js``` in the ```constants`
 
 ## To Run Locally
 
+Clone this repo (see the [docs](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository) if you're having trouble).
+
 Install dependencies,
 <pre><code>> npm install </code></pre>
 
